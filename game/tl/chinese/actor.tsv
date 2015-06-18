@@ -1,0 +1,183 @@
+	name	level	vital	agile	str	int	dex	res	skills	abilities	drop	ai	ypos	cost	j_name
+Empty	???	0	0	0	0	0	0	0				Attack	.4	0	？？？
+Chris	Chris	10	60	60	0	0	0	0	Attack,Capture			Magic	.4	0	克莉丝
+Mouse	Mouse	8	50	60	1	0	2	2	Attack		Healportion	Attack	.5	0	鼠娘
+Fairy	Fairy	10	50	65	0	2	1	2	Attack,Shockwave	Flying	Shockwavebook	Magic	.45	0	妖精
+Slime	Slime	11	60	50	2	0	1	3	Attack,Bubbleshot	Antishock	Bubbleshotbook	Skill	.45	0	史莱姆
+Orc	Orc	13	65	50	4	0	0	2	Attack,Hardblow		Hardblowbook	Attack	.42	0	兽人
+Sorcerer	Sorcerer	14	60	55	0	3	1	2	Attack,Fireball,Fireburst	Dispel	Fireballbook	Magic	.4	0	巫师
+Fox	Fox	16	60	60	1	2	2	2	Attack,Thunderbolt	Thunderproof	Thunderboltbook	Magic	.42	0	狐狸娘
+Wolf	Wolf	17	60	65	3	0	2	2	Attack,Tearclaw		Tearclawbook	Attack	.42	0	狼女
+Cowgirl	Cowgirl	19	65	60	2	0	3	3	Attack,Quickshot	Antishock	Quickshotbook	Skill	.45	0	牛仔女孩
+Succubus	Succubus	20	60	60	1	3	2	2	Attack,Shockwave,Gravitonwave	Flying,Dispel	Gravitonwavebook	Magic	.4	0	魅魔
+Mimic	Mimic	21	60	50	4	0	2	3	Attack,Hardblow	Solidity	Elixir	Attack	.5	0	米米库
+Knight	Knight	22	70	60	3	1	2	3	Attack,Fireburst		Fireburstbook	Attack	.42	0	骑士
+Darkelf	Darkelf	23	65	75	2	2	4	2	Attack,Burnknuckle,Fireburst	Fireproof	Burnknucklebook	Skill	.45	0	黑暗精灵
+Bunny	Bunny	24	65	70	1	3	3	3	Attack,Quickshot,Thunderstorm		Thunderstormbook	Magic	.42	0	兔娘
+Dragon	Dragon	26	75	60	4	0	2	3	Attack,Firebreath	Flying,Fireproof	Firebreathbook	Attack	.42	0	龙女
+Reaper	Reaper	27	70	70	3	2	1	3	Attack,Souledge,Gravitonwave	Dispel	Souledgebook	Attack	.42	0	死神
+Valkyrie	Valkyrie	29	75	65	2	2	2	4	Attack,Transform,Javelin	Thunderproof	Javelinbook	Attack	.42	0	瓦尔基里
+Supervalkyrie	Valkyrie	29	75	75	3	3	3	4	Attack,Thunderstorm,Javelin	Flying,Thunderproof	Javelinbook	Magic	.42	0	真·瓦尔基里
+Seraphiel	Seraphiel	32	70	75	3	2	3	4	Attack,Burnknuckle,Bustershot	Flying	Bustershotbook	Skill	.45	0	炽天使
+Alice	Alice	35	75	70	4	4	1	4	Attack,Jabberwock,Souledge,Gravitonwave	Dispel	Elixir	Recover	.5	0	爱莉丝
+Bel	Bel	28	65	75	3	0	4	3	Attack,Rollingslash,Tearclaw			Attack	.4	0	蓓尔
+Anna	Anna	25	65	70	1	4	2	3	Attack,Astralflare,Shockwave,Gravitonwave	Dispel		Recover	.42	0	安娜
+Astarte	Astarte	39	75	85	4	5	4	6	Attack,Astralflare,Gravitonwave,Fireburst	Dispel,Astralfield		Recover	.42	0	阿斯塔蒂
+Levia	Levia	32	75	70	3	3	2	4	Attack,Gravitonwave,Firebreath			Recover	.4	0	莉薇娅
+Leviathan	Leviathan	39	75	75	4	4	3	5	Attack,Gravitonwave,Firebreath	Astralfield		Recover	.4	0	莉薇坦
+Gothicpunk	Gothicpunk	10	65	65	1	2	2	2	Attack,Capture,Thunderbolt			Magic	.4	0	哥特朋克
+Bikini_red	Bikini(Red)	10	60	65	1	1	2	2	Attack,Capture,Bubbleshot			SKill	.4	100	比基尼（红）
+Bikini_blue	Bikini(Blue)	10	60	65	1	1	2	2	Attack,Capture,Bubbleshot			Skill	.4	100	比基尼（蓝）
+Bikini_pink	Bikini(Pink)	10	60	65	1	1	2	2	Attack,Capture,Bubbleshot			Skill	.4	100	比基尼（粉）
+Bikini_purple	Bikini(Purple)	10	60	65	1	1	2	2	Attack,Capture,Bubbleshot			Skill	.4	100	比基尼（紫）
+Bikini_white	Bikini(White)	10	60	65	1	1	2	2	Attack,Capture,Bubbleshot			Skill	.4	100	比基尼（白）
+Bikini_black	Bikini(Black)	10	60	65	1	1	2	2	Attack,Capture,Bubbleshot			Skill	.4	100	比基尼（黑）
+Fuyufuku_red	Fuyufuku(Red)	10	65	60	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	冬用学生服（红）
+Fuyufuku_blue	Fuyufuku(Blue)	10	65	60	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	冬用学生服（褐）
+Fuyufuku_pink	Fuyufuku(Pink)	10	65	60	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	冬用学生服（粉）
+Fuyufuku_purple	Fuyufuku(Purple)	10	65	60	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	冬用学生服（紫）
+Fuyufuku_black	Fuyufuku(Black)	10	65	60	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	冬用学生服（黑）
+Fuyufuku_white	Fuyufuku(White)	10	65	60	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	冬用学生服（白）
+Natsufuku_red	Natsufuku(Red)	10	60	65	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	夏用学生服（红）
+Natsufuku_blue	Natsufuku(Blue)	10	60	65	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	夏用学生服（褐）
+Natsufuku_pink	Natsufuku(Pink)	10	60	65	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	夏用学生服（粉）
+Natsufuku_purple	Natsufuku(Purple)	10	60	65	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	夏用学生服（紫）
+Natsufuku_white	Natsufuku(White)	10	60	65	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	夏用学生服（白）
+Natsufuku_black	Natsufuku(Black)	10	60	65	2	2	1	2	Attack,Capture,Fireball			Magic	.4	300	夏用学生服（黑）
+Gymuniform_red	GymUniform(Red)	10	65	65	2	0	2	2	Attack,Capture,Hardblow			Attack	.4	300	体操服（红）
+Gymuniform_blue	GymUniform(Blue)	10	65	65	2	0	2	2	Attack,Capture,Hardblow			Attack	.4	300	体操服（褐）
+Gymuniform_pink	GymUniform(Pink)	10	65	65	2	0	2	2	Attack,Capture,Hardblow			Attack	.4	300	体操服（粉）
+Gymuniform_purple	GymUniform(Purple)	10	65	65	2	0	2	2	Attack,Capture,Hardblow			Attack	.4	300	体操服（紫）
+Gymuniform_white	GymUniform(White)	10	65	65	2	0	2	2	Attack,Capture,Hardblow			Attack	.4	300	体操服（白）
+Gymuniform_black	GymUniform(Black)	10	65	65	2	0	2	2	Attack,Capture,Hardblow			Attack	.4	300	体操服（黑）
+Sukumizu_red	Sukumizu(Red)	10	60	65	1	2	2	2	Attack,Capture,Gravitonwave			Magic	.4	300	校园泳装（红）
+Sukumizu_blue	Sukumizu(Blue)	10	60	65	1	2	2	2	Attack,Capture,Gravitonwave			Magic	.4	300	校园泳装（褐）
+Sukumizu_pink	Sukumizu(Pink)	10	60	65	1	2	2	2	Attack,Capture,Gravitonwave			Magic	.4	300	校园泳装（粉）
+Sukumizu_purple	Sukumizu(Puple)	10	60	65	1	2	2	2	Attack,Capture,Gravitonwave			Magic	.4	300	校园泳装（紫）
+Sukumizu_white	Sukumizu(White)	10	60	65	1	2	2	2	Attack,Capture,Gravitonwave			Magic	.4	300	校园泳装（白）
+Sukumizu_black	Sukumizu(Black)	10	60	65	1	2	2	2	Attack,Capture,Gravitonwave			Magic	.4	300	校园泳装（黑）
+Cheerleader_red	CheerLeader(Red)	10	65	65	1	0	3	2	Attack,Capture,Quickshot			Skill	.4	300	拉拉队长（红）
+Cheerleader_blue	CheerLeader(blue)	10	65	65	1	0	3	2	Attack,Capture,Quickshot			Skill	.4	300	拉拉队长（蓝）
+Cheerleader_pink	CheerLeader(Pink)	10	65	65	1	0	3	2	Attack,Capture,Quickshot			Skill	.4	300	拉拉队长（粉）
+Cheerleader_purple	CheerLeader(Purple)	10	65	65	1	0	3	2	Attack,Capture,Quickshot			Skill	.4	300	拉拉队长（紫）
+Cheerleader_white	CheerLeader(White)	10	65	65	1	0	3	2	Attack,Capture,Quickshot			Skill	.4	300	拉拉队长（白）
+Cheerleader_black	CheerLeader(Black)	10	65	65	1	0	3	2	Attack,Capture,Quickshot			Skill	.4	300	拉拉队长（黑）
+Hoodie_red	Hoodie(Red)	10	60	75	1	1	3	2	Attack,Capture,Shockwave			Attack	.4	500	兜帽上衣（红）
+Hoodie_blue	Hoodie(Blue)	10	60	75	1	1	3	2	Attack,Capture,Shockwave			Attack	.4	500	兜帽上衣（蓝）
+Hoodie_pink	Hoodie(Pink)	10	60	75	1	1	3	2	Attack,Capture,Shockwave			Attack	.4	500	兜帽上衣（粉）
+Hoodie_purple	Hoodie(Purple)	10	60	75	1	1	3	2	Attack,Capture,Shockwave			Attack	.4	500	兜帽上衣（紫）
+Hoodie_white	Hoodie(White)	10	60	75	1	1	3	2	Attack,Capture,Shockwave			Attack	.4	500	兜帽上衣（白）
+Hoodie_black	Hoodie(Black)	10	60	75	1	1	3	2	Attack,Capture,Shockwave			Attack	.4	500	兜帽上衣（黑）
+Chinadress_red	ChinaDress(Red)	10	65	70	2	0	2	2	Attack,Capture,Burnknuckle			Magic	.4	500	旗袍（红）
+Chinadress_blue	ChinaDress(Blue)	10	65	70	2	0	2	2	Attack,Capture,Burnknuckle			Magic	.4	500	旗袍（蓝）
+Chinadress_pink	ChinaDress(Pink)	10	65	70	2	0	2	2	Attack,Capture,Burnknuckle			Magic	.4	500	旗袍（粉）
+Chinadress_purple	ChinaDress(Purple)	10	65	70	2	0	2	2	Attack,Capture,Burnknuckle			Magic	.4	500	旗袍（紫）
+Chinadress_white	ChinaDress(White)	10	65	70	2	0	2	2	Attack,Capture,Burnknuckle			Magic	.4	500	旗袍（白）
+Chinadress_black	ChinaDress(Black)	10	65	70	2	0	2	2	Attack,Capture,Burnknuckle			Magic	.4	500	旗袍（黑）
+Gothicmaid_red	GothicMaid(Red)	10	60	65	1	3	2	2	Attack,Capture,Fireburst			Magic	.4	500	哥特女仆（红）
+Gothicmaid_blue	GothicMaid(Blue)	10	60	65	1	3	2	2	Attack,Capture,Fireburst			Magic	.4	500	哥特女仆（蓝）
+Gothicmaid_pink	GothicMaid(Pink)	10	60	65	1	3	2	2	Attack,Capture,Fireburst			Magic	.4	500	哥特女仆（粉）
+Gothicmaid_purple	GothicMaid(Purple)	10	60	65	1	3	2	2	Attack,Capture,Fireburst			Magic	.4	500	哥特女仆（紫）
+Gothicmaid_white	GothicMaid(White)	10	60	65	1	3	2	2	Attack,Capture,Fireburst			Magic	.4	500	哥特女仆（白）
+Gothicmaid_black	GothicMaid(Black)	10	60	65	1	3	2	2	Attack,Capture,Fireburst			Magic	.4	500	哥特女仆（黑）
+Walolita_red	WaLolita(Red)	10	65	65	2	2	2	2	Attack,Capture,Gravitonwave			Attack	.4	500	和服萝莉（红）
+Walolita_blue	WaLolita(Blue)	10	65	65	2	2	2	2	Attack,Capture,Gravitonwave			Attack	.4	500	和服萝莉（蓝）
+Walolita_pink	WaLolita(Pink)	10	65	65	2	2	2	2	Attack,Capture,Gravitonwave			Attack	.4	500	和服萝莉（粉）
+Walolita_purple	WaLolita(Purple)	10	65	65	2	2	2	2	Attack,Capture,Gravitonwave			Attack	.4	500	和服萝莉（紫）
+Walolita_white	WaLolita(White)	10	65	65	2	2	2	2	Attack,Capture,Gravitonwave			Attack	.4	500	和服萝莉（白）
+Walolita_black	WaLolita(Black)	10	65	65	2	2	2	2	Attack,Capture,Gravitonwave			Attack	.4	500	和服萝莉（黑）
+Miko_red	Miko(Red)	10	65	60	1	3	1	2	Attack,Capture,Thunderbolt	Dispel		Magic	.4	500	巫女服（红）
+Miko_blue	Miko(Blue)	10	65	60	1	3	1	2	Attack,Capture,Thunderbolt	Dispel		Magic	.4	500	巫女服（蓝）
+Miko_pink	Miko(Pink)	10	65	60	1	3	1	2	Attack,Capture,Thunderbolt	Dispel		Magic	.4	500	巫女服（粉）
+Miko_purple	Miko(Purple)	10	65	60	1	3	1	2	Attack,Capture,Thunderbolt	Dispel		Magic	.4	500	巫女服（紫）
+Miko_white	Miko(White)	10	65	60	1	3	1	2	Attack,Capture,Thunderbolt	Dispel		Magic	.4	500	巫女服（白）
+Miko_black	Miko(Black)	10	65	60	1	3	1	2	Attack,Capture,Thunderbolt	Dispel		Magic	.4	500	巫女服（黑）
+Bunnygirl_red	BunnyGirl(Red)	10	60	65	1	2	2	2	Attack,Capture,Quickshot,Thunderstorm			Skill	.4	500	兔女郎（红）
+Bunnygirl_blue	BunnyGirl(Blue)	10	60	65	1	2	2	2	Attack,Capture,Quickshot,Thunderstorm			Skill	.4	500	兔女郎（蓝）
+Bunnygirl_pink	BunnyGirl(Pink)	10	60	65	1	2	2	2	Attack,Capture,Quickshot,Thunderstorm			Skill	.4	500	兔女郎（粉）
+Bunnygirl_purple	BunnyGirl(Purple)	10	60	65	1	2	2	2	Attack,Capture,Quickshot,Thunderstorm			Skill	.4	500	兔女郎（紫）
+Bunnygirl_white	BunnyGirl(White)	10	60	65	1	2	2	2	Attack,Capture,Quickshot,Thunderstorm			Skill	.4	500	兔女郎（白）
+Bunnygirl_black	BunnyGirl(Black)	10	60	65	1	2	2	2	Attack,Capture,Quickshot,Thunderstorm			Skill	.4	500	兔女郎（黑）
+Nurse_red	Nurse(Red)	10	70	60	2	1	2	3	Attack,Capture			Magic	.4	500	护士服（红）
+Nurse_blue	Nurse(Blue)	10	70	60	2	1	2	3	Attack,Capture			Magic	.4	500	护士服（蓝）
+Nurse_pink	Nurse(Pink)	10	70	60	2	1	2	3	Attack,Capture			Magic	.4	500	护士服（粉）
+Nurse_purple	Nurse(Pueple)	10	70	60	2	1	2	3	Attack,Capture			Magic	.4	500	护士服（紫）
+Nurse_white	Nurse(White)	10	70	60	2	1	2	3	Attack,Capture			Magic	.4	500	护士服（白）
+Nurse_black	Nurse(Black)	10	70	60	2	1	2	3	Attack,Capture			Magic	.4	500	护士服（黑）
+Catgirl_yellow	CatGirl(Yellow)	10	65	75	2	0	3	3	Attack,Capture,Tearclaw			Attack	.4	1000	猫娘装（黄）
+Catgirl_blue	CatGirl(Blue)	10	65	75	2	0	3	3	Attack,Capture,Tearclaw			Attack	.4	1000	猫娘装（蓝）
+Catgirl_pink	CatGirl(Pink)	10	65	75	2	0	3	3	Attack,Capture,Tearclaw			Attack	.4	1000	猫娘装（粉）
+Catgirl_purple	CatGirl(Purple)	10	65	75	2	0	3	3	Attack,Capture,Tearclaw			Attack	.4	1000	猫娘装（紫）
+Catgirl_white	CatGirl(White)	10	65	75	2	0	3	3	Attack,Capture,Tearclaw			Attack	.4	1000	猫娘装（白）
+Catgirl_black	CatGirl(Black)	10	65	75	2	0	3	3	Attack,Capture,Tearclaw			Attack	.4	1000	猫娘装（黑）
+Witch_red	Witch(Red)	10	60	60	0	4	3	2	Attack,Capture,Fireball,Fireburst	Dispel		Magic	.4	1000	魔女服（红）
+Witch_blue	Witch(Blue)	10	60	60	0	4	3	2	Attack,Capture,Fireball,Fireburst	Dispel		Magic	.4	1000	魔女服（蓝）
+Witch_pink	Witch(Pink)	10	60	60	0	4	3	2	Attack,Capture,Fireball,Fireburst	Dispel		Magic	.4	1000	魔女服（粉）
+Witch_purple	Witch(Purple)	10	60	60	0	4	3	2	Attack,Capture,Fireball,Fireburst	Dispel		Magic	.4	1000	魔女服（紫）
+Witch_white	Witch(White)	10	60	60	0	4	3	2	Attack,Capture,Fireball,Fireburst	Dispel		Magic	.4	1000	魔女服（白）
+Witch_black	Witch(Black)	10	60	60	0	4	3	2	Attack,Capture,Fireball,Fireburst	Dispel		Magic	.4	1000	魔女服（黑）
+Kimono_red	Kimono(Red)	10	65	65	3	1	2	3	Attack,Capture,Thunderbolt			Attack	.4	1000	和服（红）
+Kimono_blue	Kimono(Blue)	10	65	65	3	1	2	3	Attack,Capture,Thunderbolt			Attack	.4	1000	和服（蓝）
+Kimono_pink	Kimono(Pink)	10	65	65	3	1	2	3	Attack,Capture,Thunderbolt			Attack	.4	1000	和服（粉）
+Kimono_purple	Kimono(Purple)	10	65	65	3	1	2	3	Attack,Capture,Thunderbolt			Attack	.4	1000	和服（紫）
+Kimono_white	Kimono(White)	10	65	65	3	1	2	3	Attack,Capture,Thunderbolt			Attack	.4	1000	和服（白）
+Kimono_black	Kimono(Black)	10	65	65	3	1	2	3	Attack,Capture,Thunderbolt			Attack	.4	1000	和服（黑）
+Devil_red	Devil(Red)	10	60	65	1	3	1	2	Attack,Capture,Shockwave,Gravitonwave	Flying,Dispel		Magic	.4	1000	恶魔装（红）
+Devil_blue	Devil(Blue)	10	60	65	1	3	1	2	Attack,Capture,Shockwave,Gravitonwave	Flying,Dispel		Magic	.4	1000	恶魔装（蓝）
+Devil_pink	Devil(Pink)	10	60	65	1	3	1	2	Attack,Capture,Shockwave,Gravitonwave	Flying,Dispel		Magic	.4	1000	恶魔装（粉）
+Devil_purple	Devil(Purple)	10	60	65	1	3	1	2	Attack,Capture,Shockwave,Gravitonwave	Flying,Dispel		Magic	.4	1000	恶魔装（紫）
+Devil_white	Devil(White)	10	60	65	1	3	1	2	Attack,Capture,Shockwave,Gravitonwave	Flying,Dispel		Magic	.4	1000	恶魔装（白）
+Devil_black	Devil(Black)	10	60	65	1	3	1	2	Attack,Capture,Shockwave,Gravitonwave	Flying,Dispel		Magic	.4	1000	恶魔装（黑）
+Santa_red	Santa(Red)	10	70	65	2	2	2	3	Attack,Capture,Fireburst			Attack	.4	1000	圣诞服（红）
+Santa_blue	Santa(Blue)	10	70	65	2	2	2	3	Attack,Capture,Fireburst			Attack	.4	1000	圣诞服（蓝）
+Santa_pink	Santa(Pink)	10	70	65	2	2	2	3	Attack,Capture,Fireburst			Attack	.4	1000	圣诞服（粉）
+Santa_purple	Santa(Purple)	10	70	65	2	2	2	3	Attack,Capture,Fireburst			Attack	.4	1000	圣诞服（紫）
+Santa_white	Santa(White)	10	70	65	2	2	2	3	Attack,Capture,Fireburst			Attack	.4	1000	圣诞服（白）
+Santa_black	Santa(Black)	10	70	65	2	2	2	3	Attack,Capture,Fireburst			Attack	.4	1000	圣诞服（黑）
+Lingerie_red	Lingerie(Red)	10	60	75	2	3	3	1	Attack,Capture,Thunderstorm			Magic	.4	1000	内衣（红）
+Lingerie_yellow	Lingerie(Yellow)	10	60	75	2	3	3	1	Attack,Capture,Thunderstorm			Magic	.4	1000	内衣（黄）
+Lingerie_pink	Lingerie(Pink)	10	60	75	2	3	3	1	Attack,Capture,Thunderstorm			Magic	.4	1000	内衣（粉）
+Lingerie_purple	Lingerie(Purple)	10	60	75	2	3	3	1	Attack,Capture,Thunderstorm			Magic	.4	1000	内衣（紫）
+Lingerie_white	Lingerie(White)	10	60	75	2	3	3	1	Attack,Capture,Thunderstorm			Magic	.4	1000	内衣（白）
+Lingerie_black	Lingerie(Black)	10	60	75	2	3	3	1	Attack,Capture,Thunderstorm			Magic	.4	1000	内衣（黑）
+Icecream_red	IceCream(Red)	10	65	60	2	2	2	4	Attack,Capture,Gravitonwave	Fireproof		Skill	.4	1000	冰激凌装（红）
+Icecream_yellow	IceCream(Yellow)	10	65	60	2	2	2	4	Attack,Capture,Gravitonwave	Fireproof		Skill	.4	1000	冰激凌装（黄）
+Icecream_blue	IceCream(Blue)	10	65	60	2	2	2	4	Attack,Capture,Gravitonwave	Fireproof		Skill	.4	1000	冰激凌装（蓝）
+Icecream_brown	IceCream(Brown)	10	65	60	2	2	2	4	Attack,Capture,Gravitonwave	Fireproof		Skill	.4	1000	冰激凌装（茶）
+Icecream_pink	IceCream(Pink)	10	65	60	2	2	2	4	Attack,Capture,Gravitonwave	Fireproof		Skill	.4	1000	冰激凌装（粉）
+Icecream_white	IceCream(White)	10	65	60	2	2	2	4	Attack,Capture,Gravitonwave	Fireproof		Skill	.4	1000	冰激凌装（白）
+Wedding_red	Wedding(Red)	10	70	65	1	4	3	4	Attack,Thunderbolt,Thunderstorm	Antishock,Thunderproof		Magic	.4	2000	婚纱（红）
+Wedding_blue	Wedding(Blue)	10	70	65	1	4	3	4	Attack,Thunderbolt,Thunderstorm	Antishock,Thunderproof		Magic	.4	2000	婚纱（蓝）
+Wedding_pink	Wedding(Pink)	10	70	65	1	4	3	4	Attack,Thunderbolt,Thunderstorm	Antishock,Thunderproof		Magic	.4	2000	婚纱（粉）
+Wedding_purple	Wedding(Purple)	10	70	65	1	4	3	4	Attack,Thunderbolt,Thunderstorm	Antishock,Thunderproof		Magic	.4	2000	婚纱（紫）
+Wedding_white	Wedding(White)	10	70	65	1	4	3	4	Attack,Thunderbolt,Thunderstorm	Antishock,Thunderproof		Magic	.4	2000	婚纱（白）
+Wedding_black	Wedding(Black)	10	70	65	1	4	3	4	Attack,Thunderbolt,Thunderstorm	Antishock,Thunderproof		Magic	.4	2000	婚纱（黑）
+Gothiclolita_red	GothicLolita(Red)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（红）
+Gothiclolita_orange	GothicLolita(Orange)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（橙）
+Gothiclolita_blue	GothicLolita(Blue)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（蓝）
+Gothiclolita_pink	GothicLolita(Pink)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（粉）
+Gothiclolita_purple	GothicLolita(Purple)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（紫）
+Gothiclolita_white	GothicLolita(White)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（白）
+Gothiclolita_black	GothicLolita(Black)	10	65	70	4	4	2	3	Attack,Souledge,Gravitonwave	Dispel		Skill	.4	2000	哥特萝莉（黑）
+Princess_red	Princess(Red)	10	70	70	3	2	3	4	Attack,Burnknuckle,Fireburst	Fireproof		Skill	.4	2000	公主装（红）
+Princess_blue	Princess(Blue)	10	70	70	3	2	3	4	Attack,Burnknuckle,Fireburst	Fireproof		Skill	.4	2000	公主装（蓝）
+Princess_pink	Princess(Pink)	10	70	70	3	2	3	4	Attack,Burnknuckle,Fireburst	Fireproof		Skill	.4	2000	公主装（粉）
+Princess_purple	Princess(Purple)	10	70	70	3	2	3	4	Attack,Burnknuckle,Fireburst	Fireproof		Skill	.4	2000	公主装（紫）
+Princess_white	Princess(White)	10	70	70	3	2	3	4	Attack,Burnknuckle,Fireburst	Fireproof		Skill	.4	2000	公主装（白）
+Princess_black	Princess(Black)	10	70	70	3	2	3	4	Attack,Burnknuckle,Fireburst	Fireproof		Skill	.4	2000	公主装（黑）
+Werewolf	Werewolf	10	65	70	2	0	2	2	Attack,Capture,Tearclaw			Attack	.4	3000	狼人变异
+Werecat	Werecat	10	65	70	2	0	2	2	Attack,Rollingslash,Tearclaw			Attack	.4	3000	猫人变异
+Tentacle	Tentacle	10	75	55	3	0	0	4	Attack,Capture			Attack	.4	3000	触手服
+Apron	Apron	10	60	70	1	4	2	2	Attack,Capture,Fireball			Magic	.4	3000	围裙
+Slime_red	Slime(Red)	10	70	60	3	1	2	3	Attack,Capture,Bubbleshot	Antishock		Skill	.4	3000	史莱姆装（红）
+Slime_orange	Slime(Orange)	10	70	60	3	1	2	3	Attack,Capture,Bubbleshot	Antishock		Skill	.4	3000	史莱姆装（橙）
+Slime_blue	Slime(Blue)	10	70	60	3	1	2	3	Attack,Capture,Bubbleshot	Antishock		Skill	.4	3000	史莱姆装（蓝）
+Slime_pink	Slime(Pink)	10	70	60	3	1	2	3	Attack,Capture,Bubbleshot	Antishock		Skill	.4	3000	史莱姆装（粉）
+Slime_purple	Slime(Purple)	10	70	60	3	1	2	3	Attack,Capture,Bubbleshot	Antishock		Skill	.4	3000	史莱姆装（紫）
+Slime_green	Slime(Green)	10	70	60	3	1	2	3	Attack,Capture,Bubbleshot	Antishock		Skill	.4	3000	史莱姆装（绿）
+Pandagirl	PandaGirl	10	70	60	5	0	0	3	Attack,Capture,Hardblow			Magic	.4	3000	熊猫娘装
+Bunnygirl_lucid	BunnyGirl(Lucid)	10	60	70	1	2	2	1	Attack,Capture,Quickshot,Thunderstorm			Magic	.4	3000	兔娘装（透明）
+Tigergirl_white	TigerGirl(White)	10	65	70	4	0	2	3	Attack,Capture,Burnknuckle			Skill	.4	3000	虎娘装（白）
+Tigergirl_yellow	TigerGirl(Yellow)	10	65	70	4	0	2	3	Attack,Capture,Burnknuckle			Skill	.4	3000	虎娘装（黄）
+Chocolate	Chocolate	10	65	55	3	2	2	4	Attack,Capture,Quickshot			Skill	.4	3000	巧克力服
+Ropes	Ropes	10	55	55	0	0	0	0	Attack,Capture,Melt			Magic	.4	3000	粗绳

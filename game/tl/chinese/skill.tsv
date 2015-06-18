@@ -1,0 +1,26 @@
+	name	type	attr	target	state	cost	hit	power	speed	sound	image	grid	j_name
+Cancel	Cancel	Grapple	Solid			0	0	0	0			1	取消
+Recover	Recover	Grapple	Solid			0	0	0	5			1	恢复
+Guard	Guard	Grapple	Solid			5	0	0	100			1	防御
+Attack	Attack	Grapple	Solid			10	100	6	10	blow	slash	5	攻击
+Shockwave	ShockWave	Magic	Shock			20	110	7	8	wind1	shockwave	8	冲击波
+Fireball	FireBall	Magic	Fire			20	90	9	7	fire1	fireball	8	火球
+Thunderbolt	ThunderBolt	Magic	Thunder			30	100	10	6	thunder1	thunderbolt	8	闪电箭
+Gravitonwave	GravitonWave	Magic	Shock	All		30	110	6	8	earth2	gravitonwave	12	重力波
+Fireburst	FireBurst	Magic	Fire	All		30	90	8	7	fire2	fireburst	10	火焰爆发
+Thunderstorm	ThunderStorm	Magic	Thunder	All		45	100	9	6	thunder2	thunderstorm	12	闪电风暴
+Melt	Melt	Magic	Astral			20	300	-100	10	poison	melt	12	溶解
+Tearclaw	TearClaw	Grapple	Solid			15	130	3	11	sword	claw	5	撕裂利爪
+Hardblow	HardBlow	Grapple	Solid			30	80	12	7	ax	blow	5	沉重打击
+Burnknuckle	BurnKnuckle	Grapple	Fire			35	110	10	9	fire1	fireball	8	火焰冲拳
+Souledge	SoulEdge	Grapple	Astral			40	90	13	8	sword	souledge	10	心灵剑刃
+Jabberwock	Jabberwock	Grapple	Solid	All	Torn	50	90	13	7	sword	rollingslash	9	胡言乱语
+Rollingslash	RollingSlash	Grapple	Solid	All	Torn	50	110	10	8	sword	rollingslash	9	旋风斩
+Bubbleshot	BubbleShot	Shot	Shock			20	90	8	9	ice1	bubble	10	泡沫射击
+Quickshot	QuickShot	Shot	Solid			25	110	7	12	spear	shot	5	快速射击
+Javelin	Javelin	Shot	Solid			35	100	11	8	spear	shot	5	标枪
+Firebreath	FireBreath	Shot	Fire	All		40	90	9	8	fire2	fireburst	10	火焰吐息
+Bustershot	Bustershot	Shot	Fire	All		50	100	10	7	burst	bustershot	12	爆裂射击
+Capture	Capture	Magic	Astral			30	80	-100	6	revival	capture	12	捕捉
+Transform	Transform	Magic	Astral	Self	Torn	10	0	0	6	revival		1	变身
+Astralflare	AstralFlare	Magic	Astral	All	Torn	50	100	13	6	burst	astralflare	14	灵魂闪烁
